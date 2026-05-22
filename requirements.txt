@@ -1,0 +1,8 @@
+flask
+gunicorn
+requests
+pycryptodome
+pyjwt
+protobuf==4.25.3
+psutil
+protobuf-decoder
